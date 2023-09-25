@@ -1,23 +1,38 @@
-# Olá, meu nome é Rodriaum 👋
-
-<div align="center">
-  <img width="80%" src="https://github.com/rodriaum/rodriaum/blob/main/assets/cover.png" alt="capa" />
+<div align="right">
+  <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 </div>
 
-<br /><br />
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/rodriaum/rodriaum/master/wave.gif" width="30px">
+  Olá, meu nome é Rodrigo F
+</h1>
 
-## Minhas estatísticas no Github
+<h3 align="left">Aprimoro meu conhecimento em linguagens de programação e desenvolvo projetos pessoais.</h3>
 
-<br /><br />
-
-<div align="center">
-  <img width="43%" src="https://api.githubtrends.io/user/svg/rodriaum/langs?time_range=one_year&compact=True&theme=bright_lights" />
-  <img width="53%" style="margin-top: -1px" src="https://github-readme-stats.vercel.app/api?username=rodriaum&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" />
+<div align="left">
+  <a target="_blank" href="https://linkedin.com/in/rodriaum/">
+    <img src="https://img.shields.io/badge/-rodriaum-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rodriaum/" alt="Linkedin Badge">
+  </a>
+  
+  <a target="_blank" href="https://twitter.com/rodriaum">
+    <img src="https://img.shields.io/badge/rodriaum-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rodriaum" alt="Twitter Badge">
+  </a>
+  
+  <a target="_blank" href="https://instagram.com/rodriaum/">
+    <img src="https://img.shields.io/badge/-rodriaum-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/rodriaum/" alt="Instagram Badge">
+  </a>
 </div>
 
-<p>
-  <b>Para mais informações sobre o meu GitHub, </b>
-  <a href="https://gitprofilee.netlify.app/user?id=rodriaum">confira aqui</a>
-</p>
+<details>
+  <summary>
+    <strong>MAIS SOBRE MIM</strong>
+  </summary>
 
-<br /><br />
+  ![rodriaum's github stats](https://github-readme-stats.vercel.app/api?username=rodriaum&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414&hide_title=true&count_private=true)
+
+  <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>Sou principalmente ativo na Internet</b>, então se você quiser dizer oi ou apenas passar por aqui, fique à vontade para</em>
+
+  <a target="_blank" href="https://github.com/rodriaum/rodriaum/">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/rodriaum&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="rodriaum's visitors">
+  </a>
+</details>
