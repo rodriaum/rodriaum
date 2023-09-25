@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/rodriaum/rodriaum/master/wave.gif" width="30px"> Olá, meu nome é Rodrigo Ferreira
+  <img src="https://raw.githubusercontent.com/rodriaum/rodriaum/master/assets/wave.gif" width="30px"> Olá, meu nome é Rodrigo Ferreira
 </h1>
 
 <h3 align="center">Aprimorando meu conhecimento em linguagens de programação e desenvolvendo projetos pessoais.</h3>
