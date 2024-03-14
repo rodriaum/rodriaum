@@ -22,5 +22,4 @@
 
   ![Rodrigo Ferreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodriaum&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414)
 
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>Você pode visitar o meu perfil <a target="_blank" href="https://gitprofilee.netlify.app/user?id=rodriaum"><strong>, fique à vontade para fazê-lo ;)</b> </em>
-</details>
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>Você pode visitar meu perfil por <a target="_blank" href="https://gitprofilee.netlify.app/user?id=rodriaum"><strong> aqui </strong></a>, fique à vontade para fazê-lo ;)</b> </em>
