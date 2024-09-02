@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/rodriaum/rodriaum/master/assets/wave.gif" width="30px"> Olá, meu nome é Rodrigo Ferreira
 </h1>
 
-<h3 align="center">Estou aprimorando o meu conhecimento em linguagens de programação e a desenvolver projetos pessoais.</h3>
+<h3 align="center">Estou a aprimorar o meu conhecimento em linguagens de programação e a desenvolver projetos pessoais.</h3>
 <!--
 <p align="center">
   <a href="https://linkedin.com/in/rodriaum/" target="_blank">
