@@ -17,12 +17,10 @@
   </a>
 </p>
 
-## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1065788770739294289)](https://discord.com/users/1065788770739294289)
-
 <details>
   <summary><strong>MAIS SOBRE MIM</strong></summary>
 
   ![Rodrigo Ferreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodriaum&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1065788770739294289)](https://discord.com/users/1065788770739294289)
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>Visitar o meu perfil <a target="_blank" href="https://gitprofilee.netlify.app/user?id=rodriaum"><strong> aqui!</strong></a> Fique à vontade para fazê-lo ;)</b> </em>
