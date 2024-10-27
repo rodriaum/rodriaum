@@ -17,6 +17,9 @@
   </a>
 </p>
 
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1065788770739294289)](https://discord.com/users/1065788770739294289)
+
 <details>
   <summary><strong>MAIS SOBRE MIM</strong></summary>
 
