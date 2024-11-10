@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/rodriaum/rodriaum/master/assets/wave.gif" width="30px"> Olá, meu nome é Rodrigo
 </h1>
 
-<h3 align="center">Aprimorando o meu conhecimento em linguagens de programação e a desenvolver projetos pessoais.</h3>
-<!--
+<h3 align="center">A melhorar o meu conhecimento em linguagens de programação em desenvolver projetos pessoais.</h3>
+<!
 <p align="center">
   <a href="https://linkedin.com/in/rodriaum/" target="_blank">
     <img src="https://img.shields.io/badge/-rodriaum-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rodriaum/" alt="Linkedin Badge">
