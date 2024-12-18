@@ -22,7 +22,7 @@
   </p>
   <p align="center">
     <a href="https://discord.com/users/1065788770739294289" target="_blank">
-      <img src="?theme=dark&bg=151a28&borderRadius=&showDisplayName=false" alt="Discord Presence">
+      <img src="https://lanyard.cnrad.dev/api/1065788770739294289?theme=dark&bg=151a28&borderRadius=&showDisplayName=false" alt="Discord Presence">
     </a>
   </p>
 
