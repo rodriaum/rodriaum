@@ -18,11 +18,11 @@
   <summary><strong>MAIS SOBRE MIM</strong></summary>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rodriaum&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414" alt="Rodrigo Ferreira's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=rodriaum&show_icons=true&theme=ocean_dark&hide_border=true&line_height=25" alt="Rodrigo Ferreira's GitHub Stats">
   </p>
   <p align="center">
     <a href="https://discord.com/users/1065788770739294289" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/1065788770739294289" alt="Discord Presence">
+      <img src="?theme=dark&bg=151a28&borderRadius=&showDisplayName=false" alt="Discord Presence">
     </a>
   </p>
 
