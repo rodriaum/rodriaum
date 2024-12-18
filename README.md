@@ -25,12 +25,10 @@
 
   ## 🛠 Habilidades
 
-<div style="display: flex; justify-content: center; gap: 20px;">
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-</div>
   
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>Visitar o meu perfil <a target="_blank" href="https://gitprofilee.netlify.app/user?id=rodriaum"><strong> aqui!</strong></a> Fique à vontade para fazê-lo ;)</b> </em>
