@@ -28,14 +28,14 @@
 
   ## 🛠 Habilidades
 
-  <h5 align="center">Dominando</h5>
+  <h4 align="center">Dominando</h4>
 
   <p align="center">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </p>
 
-  <h5 align="center">Aprendendo</h5>
+  <h4 align="center">Aprendendo</h4>
 
   <p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
