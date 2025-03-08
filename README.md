@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Estou constantemente melhorando meu conhecimento em linguagens de programação e desenvolvendo projetos pessoais.
+  Estou constantemente a aprimorar os meus conhecimentos em linguagens de programação e a desenvolver projetos pessoais.
 </h3>
 
 <p align="center">
