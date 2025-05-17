@@ -17,16 +17,15 @@
 <details>
   <summary><strong>MAIS SOBRE MIM</strong></summary>
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=rodriaum&show_icons=true&theme=ocean_dark&hide_border=true&line_height=25&locale=pt-br" alt="GitHub Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodriaum&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=true&order=2&theme=ocean_dark" height="195" alt="Language Graph" />
-</p>
 
-<p align="center">
   <a href="https://discord.com/users/1065788770739294289" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1065788770739294289?theme=dark&bg=151a28&borderRadius=8px&showDisplayName=false" alt="Discord Presence">
   </a>
-</p>
+</div>
 
   ## 🛠 Habilidades
 
