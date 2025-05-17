@@ -19,7 +19,8 @@
 
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=rodriaum&show_icons=true&theme=ocean_dark&hide_border=true&line_height=25" alt="Rodrigo Ferreira's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=rodriaum&show_icons=true&theme=ocean_dark&hide_border=true&line_height=25&locale=pt-br" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodriaum&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true&order=2&theme=ocean_dark" height="238" alt="Language Graph"  />
     <a href="https://discord.com/users/1065788770739294289" target="_blank">
       <img src="https://lanyard.cnrad.dev/api/1065788770739294289?theme=dark&bg=151a28&borderRadius=&showDisplayName=false" alt="Discord Presence">
     </a>
