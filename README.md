@@ -29,15 +29,15 @@
 
   ## 🛠 Habilidades
 
-<h4 align="center">Dominando</h4>
+<h4 align="left">Dominando</h4>
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
 </p>
 
-<h4 align="center">Aprendendo</h4>
+<h4 align="left">Aprendendo</h4>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
 </p>
 
-<h4 align="center">DevOps</h4>
+<h4 align="left">DevOps</h4>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
