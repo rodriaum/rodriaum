@@ -3,9 +3,11 @@
   Olá, meu nome é Rodrigo
 </h1>
 
+<!--
 <h3 align="center">
   Estou constantemente a aprimorar os meus conhecimentos em linguagens de programação e a desenvolver projetos pessoais.
 </h3>
+-->
 
 <p align="center">
   <!-- Instagram -->
