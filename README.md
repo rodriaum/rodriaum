@@ -3,11 +3,9 @@
   Olá, meu nome é Rodrigo
 </h1>
 
-<!--
 <h3 align="center">
-  Estou constantemente a aprimorar os meus conhecimentos em linguagens de programação e a desenvolver projetos pessoais.
+  “Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas.” Provérbios 3:5,6
 </h3>
--->
 
 <p align="center">
   <!-- Instagram -->
