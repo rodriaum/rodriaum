@@ -14,6 +14,9 @@
   <a href="https://instagram.com/rodriaum/" target="_blank">
     <img src="https://img.shields.io/badge/-rodriaum-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
   </a>
+  <a href="https://linkedin.com/in/rodriaum/" target="_blank">
+    <img src="https://img.shields.io/badge/-rodriaum-E1306C?style=for-the-badge&logoColor=white" alt="Linkedin Badge">
+  </a>
 </p>
 
 <details>
