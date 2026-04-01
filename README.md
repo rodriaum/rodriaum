@@ -1,27 +1,27 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/rodriaum/rodriaum/master/assets/wave.gif" width="30px" alt="Wave"> 
-  Olá, meu nome é Rodrigo
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://instagram.com/rodriaum/" target="_blank">
-    <img src="https://img.shields.io/badge/-rodriaum-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
-  </a>
-  <a href="https://linkedin.com/in/rodriaum/" target="_blank">
-    <img src="https://img.shields.io/badge/-rodriaum-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
-  </a>
-</p>
+# 👋 Olá, sou o Rodrigo!
 
-<details>
-  <summary><strong>MAIS SOBRE MIM</strong></summary>
+### Software Developer
+**Java | C# | Spring | SQL | Redis | MongoDB**
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodriaum&show_icons=true&theme=ocean_dark&hide_border=true&line_height=25&locale=pt-br" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodriaum&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=true&order=2&theme=ocean_dark" height="195" alt="Language Graph" />
+<br/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodriaum&theme=tokyo-night&hide_border=true" alt="oNyell's Activity Graph" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rodriaum&theme=tokyo-night&hide_border=true&show_icons=true" height="170" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriaum&theme=tokyo-night&hide_border=true&layout=compact" height="170" alt="languages" />
+
 </div>
 
-<br>
+<br/>
+
+## Sobre Mim
+Entrei na área em 2022/2023 quando comecei a criar plugins para o Minecraft Java com Java. Hoje o meu objetivo é crescer e tornar-me um Desenvolvedor Full Stack, com especial foco na engenharia.
 
 ## Habilidades
 
@@ -127,15 +127,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
 </p>
 
-<br>
+## Conexões
+<div align="center"> 
+  <a href="https://github.com/rodriaum">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://discord.com/users/rodriaum">
+    <img src="https://img.shields.io/badge/Instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div>
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30" alt="Hello Gif"> 
-    <em>
-      <b>Visite o meu perfil 
-        <a href="https://gitprofilee.netlify.app/user?id=rodriaum" target="_blank"><strong>aqui!</strong></a> 
-        Fique à vontade para explorá-lo. 😉
-      </b>
-    </em>
-  </p>
-</details>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rodriaum&label=Profile%20Views&color=0e75b6&style=flat" alt="rodriaum" />
+</div>
