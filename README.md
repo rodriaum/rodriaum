@@ -128,13 +128,16 @@ Entrei na área em 2022/2023 quando comecei a criar plugins para o Minecraft Jav
   <a href="https://github.com/rodriaum">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://discord.com/users/rodriaum">
-    <img src="https://img.shields.io/badge/Instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white" alt="Discord Badge"/>
+  <a href=https://www.instagram.com/rodriaum">
+    <img src="https://img.shields.io/badge/Instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rodriaum">
+    <img src="https://img.shields.io/badge/Instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rodriaum&label=Profile%20Views&color=0e75b6&style=flat" alt="rodriaum" />
+  <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="rodriaum" />
 </div>
