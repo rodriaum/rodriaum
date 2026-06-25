@@ -21,7 +21,11 @@
 <br/>
 
 ## Sobre Mim
-Entrei na área em 2022/2023 quando comecei a criar plugins para o Minecraft Java com Java. Hoje o meu objetivo é crescer e tornar-me um Desenvolvedor Full Stack, com especial foco na engenharia.
+Iniciei o meu percurso na área da programação entre 2022 e 2023, motivado pela curiosidade em compreender os sistemas por trás dos jogos que utilizava. Foi nesse contexto que tive o primeiro contacto com a linguagem Java, base do Minecraft Java Edition.
+
+Desde então, tenho vindo a desenvolver as minhas competências técnicas com o objetivo de me tornar um Desenvolvedor Full Stack completo, com especial foco em engenharia de software e um forte interesse na área de segurança.
+
+Para além da programação, possuo conhecimentos sólidos em hardware, redes e cibersegurança, com especial enfoque na proteção de sistemas, deteção de falhas e identificação de vulnerabilidades.
 
 ## Habilidades
 
@@ -34,15 +38,7 @@ Entrei na área em 2022/2023 quando comecei a criar plugins para o Minecraft Jav
 </h4>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="ASP.NET Core" title="ASP.NET Core" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,ts"/>
 </p>
 
 <h4 align="left">
@@ -50,13 +46,7 @@ Entrei na área em 2022/2023 quando comecei a criar plugins para o Minecraft Jav
 </h4>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis"/>
 </p>
 
 <br>
@@ -68,19 +58,7 @@ Entrei na área em 2022/2023 quando comecei a criar plugins para o Minecraft Jav
 </h4>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" title="Go" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" title="NodeJS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" title="NextJS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" title="Lua" />
+  <img src="https://skillicons.dev/icons?i=python,go,nodejs,react,nextjs,angular,lua"/>
 </p>
 
 <h4 align="left">
@@ -88,7 +66,7 @@ Entrei na área em 2022/2023 quando comecei a criar plugins para o Minecraft Jav
 </h4>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40" alt="Cassandra" title="Cassandra" />
+  <img src="https://skillicons.dev/icons?i=cassandra"/>
 </p>
 
 <br>
@@ -96,15 +74,7 @@ Entrei na área em 2022/2023 quando comecei a criar plugins para o Minecraft Jav
 <img src="https://img.shields.io/badge/DEVOPS_%26_CLOUD-f97316?style=for-the-badge&logo=icloud&logoColor=white" />
 
 <p align="left" style="margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="Amazon Web Services" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,cloudflare,vercel"/>
 </p>
 
 <br>
@@ -112,15 +82,7 @@ Entrei na área em 2022/2023 quando comecei a criar plugins para o Minecraft Jav
 <img src="https://img.shields.io/badge/EDITORES_%26_IDEs-8b5cf6?style=for-the-badge&logo=jetbrains&logoColor=white" />
 
 <p align="left" style="margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" title="PyCharm" />
-  <img width="12" />
-  <img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" height="40" alt="GoLand" title="GoLand" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" title="Visual Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode"/>
 </p>
 
 ## Conexões
