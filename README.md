@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodriaum&theme=tokyo-night&hide_border=true" alt="oNyell's Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodriaum&theme=tokyo-night&hide_border=true" alt="Rodriaum's Activity Graph" />
 
 <br/>
 
