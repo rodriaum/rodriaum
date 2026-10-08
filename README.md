@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, sou o Rodrigo!
+# 👋 Hi, I'm Rodrigo!
 
 ### Mid Level Full Stack Developer
 **Java | C# | Spring | SQL | Redis | MongoDB**
@@ -20,21 +20,22 @@
 
 <br/>
 
-## Sobre Mim
-Iniciei o meu percurso na área da programação entre 2022 e 2023, motivado pela curiosidade em compreender os sistemas por trás dos jogos que utilizava. Foi nesse contexto que tive o primeiro contacto com a linguagem Java, base do Minecraft Java Edition.
+## About Me
 
-Desde então, tenho vindo a desenvolver as minhas competências técnicas com o objetivo de me tornar um Desenvolvedor Full Stack completo, com especial foco em engenharia de software e um forte interesse na área de segurança.
+I started my journey in software development between 2022 and 2023, driven by curiosity about understanding the systems behind the games I played. This was where I had my first contact with Java, the language behind Minecraft Java Edition.
 
-Para além da programação, possuo conhecimentos sólidos em hardware, redes e cibersegurança, com especial enfoque na proteção de sistemas, deteção de falhas e identificação de vulnerabilidades.
+Since then, I have continuously developed my technical skills with the goal of becoming a well-rounded Full Stack Developer, with a strong focus on software engineering and a particular interest in cybersecurity.
 
-## Habilidades
+Beyond software development, I have solid knowledge of hardware, networking, and cybersecurity, with a particular focus on system protection, fault detection, and vulnerability identification.
+
+## Skills
 
 <br>
 
-<img src="https://img.shields.io/badge/DOMINANDO-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/MASTERED-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 <h4 align="left">
-  Linguagens & Frameworks
+  Languages & Frameworks
 </h4>
 
 <p align="left">
@@ -42,7 +43,7 @@ Para além da programação, possuo conhecimentos sólidos em hardware, redes e 
 </p>
 
 <h4 align="left">
-  Bancos de Dados
+  Databases
 </h4>
 
 <p align="left">
@@ -51,10 +52,10 @@ Para além da programação, possuo conhecimentos sólidos em hardware, redes e 
 
 <br>
 
-<img src="https://img.shields.io/badge/APRENDENDO-3b82f6?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/LEARNING-3b82f6?style=for-the-badge&logo=bookstack&logoColor=white" />
 
 <h4 align="left">
-  Linguagens & Frameworks
+  Languages & Frameworks
 </h4>
 
 <p align="left">
@@ -62,7 +63,7 @@ Para além da programação, possuo conhecimentos sólidos em hardware, redes e 
 </p>
 
 <h4 align="left">
-  Bancos de Dados
+  Databases
 </h4>
 
 <p align="left">
@@ -79,18 +80,19 @@ Para além da programação, possuo conhecimentos sólidos em hardware, redes e 
 
 <br>
 
-<img src="https://img.shields.io/badge/EDITORES_%26_IDEs-8b5cf6?style=for-the-badge&logo=jetbrains&logoColor=white" />
+<img src="https://img.shields.io/badge/EDITORS_%26_IDEs-8b5cf6?style=for-the-badge&logo=jetbrains&logoColor=white" />
 
 <p align="left" style="margin-top: 10px;">
   <img src="https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode"/>
 </p>
 
-## Conexões
+## Connect With Me
+
 <div align="center"> 
   <a href="https://github.com/rodriaum">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href=https://www.instagram.com/rodriaum">
+  <a href="https://www.instagram.com/rodriaum">
     <img src="https://img.shields.io/badge/Instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/rodriaum">
