@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://github-graph.rodriaum.com/graph?username=rodriaum&theme=tokyo-night&hide_border=true" alt="Rodriaum's Activity Graph" />
+<img src="https://github-act-graph.rodriaum.com/graph?username=rodriaum&theme=tokyo-night&hide_border=true" alt="Rodriaum's Activity Graph" />
 
 <br/>
 
