@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://github-act-graph.rodriaum.com/graph?username=rodriaum&theme=tokyo-night&type=gradient&hide_border=true" alt="Rodrigo Ferreira's Activity Graph" />
+<img src="https://github-act-graph.rodriaum.com/graph?username=rodriaum&theme=tokyo-night&type=gradient&hide_border=true&v=3" alt="Rodrigo Ferreira's Activity Graph" />
 
 <br/>
 
