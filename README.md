@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rodrigo!
 
-### Mid Level Full Stack Developer
+### Full-Stack Developer
 **Java | C# | Spring | SQL | Redis | MongoDB**
 
 <br/>
