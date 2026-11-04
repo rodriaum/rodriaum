@@ -9,12 +9,26 @@
 
 <br/>
 
-<img src="https://github-act-graph.rodriaum.com/graph?username=rodriaum&theme=tokyo-night&type=gradient&hide_border=true&v=6" alt="Rodrigo Ferreira's Activity Graph" />
+<div align="center">
+  <img
+    src="https://github-act-graph.rodriaum.com/graph?username=rodriaum&days=31&theme=tokyo-night&type=sparkline&area=false&grid=true&hide_title=false&hide_border=true&height=340&radius=0&custom_title=Contribution+Graph&v=1"
+    alt="Activity Graph"
+    width="100%"
+  />
 
-<br/>
+  <br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=rodriaum&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true" height="170" alt="stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodriaum&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=rodriaum&rank_icon=percentile&custom_title=GitHub%20Stats&include_all_commits=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodriaum&theme=tokyonight&hide_border=true&layout=compact"
+    height="170"
+    alt="Top Languages"
+  />
+</div>
 
 </div>
 
