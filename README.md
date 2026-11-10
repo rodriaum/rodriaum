@@ -11,7 +11,7 @@
 
 <div align="center">
   <img
-    src="https://github-act-graph.rodriaum.com/graph?username=rodriaum&days=31&theme=tokyo-night&type=sparkline&area=false&grid=true&hide_title=false&hide_border=true&height=340&radius=0&custom_title=GitHub%20Contribution%20Graph&v=1"
+    src="https://github-act-graph.rodriaum.com/graph?username=rodriaum&days=31&theme=tokyo-night&type=gradient&area=true&grid=false&show_point=false&hide_title=false&hide_y_axis=false&hide_border=true&height=340&radius=0&custom_title=My+Github+Contribution+Graph&v=1"
     alt="Activity Graph"
     width="100%"
   />
