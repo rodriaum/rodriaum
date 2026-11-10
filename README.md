@@ -12,7 +12,7 @@
 <div align="center">
   <!-- The production URL is https://github-act-graph.rodriaum.com. The URL https://github-act-graph-dev.rodriaum.com is only for testing in a development environment before the official release. -->
   <img
-    src="https://github-act-graph-dev.rodriaum.com/graph?username=rodriaum&days=31&theme=tokyo-night&type=snowy&area=true&grid=false&show_point=false&hide_title=false&hide_y_axis=false&hide_border=true&radius=0&custom_title=My+Github+Contribution+Graph&v=1"
+    src="https://github-act-graph-dev.rodriaum.com/graph?username=rodriaum&days=31&theme=tokyo-night&type=snowy&area=true&grid=false&show_point=false&hide_title=false&hide_y_axis=false&hide_border=true&radius=0&custom_title=My+Github+Contribution+Graph&v=2"
     alt="Activity Graph"
     width="100%"
   />
